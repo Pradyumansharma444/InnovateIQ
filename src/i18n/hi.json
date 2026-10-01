@@ -1,0 +1,78 @@
+{
+  "app": {
+    "title": "InnovateIQ",
+    "subtitle": "आयुष मंत्रालय — नवाचार उत्कृष्टता संकेतक प्लेटफॉर्म",
+    "tagline": "आयुष शैक्षणिक संस्थानों में नवाचार उत्कृष्टता को मापने, ट्रैक करने और प्रदर्शित करने हेतु सशक्त प्रणाली"
+  },
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "projects": "नवाचार परियोजनाएं",
+    "publications": "शोध प्रकाशन",
+    "patents": "पेटेंट एवं आईपीआर",
+    "grants": "अनुसंधान अनुदान",
+    "startups": "स्टार्टअप और ऊष्मायन",
+    "competitions": "प्रतियोगिताएं एवं पुरस्कार",
+    "events": "नवाचार कार्यक्रम",
+    "indicators": "संकेतक इंजन",
+    "reviewQueue": "समीक्षा और सत्यापन",
+    "recognition": "गौरव गैलरी",
+    "reports": "रिपोर्ट्स",
+    "import": "डेटा आयात",
+    "feedback": "प्रतिक्रिया",
+    "profile": "मेरी प्रोफ़ाइल",
+    "settings": "प्रशासन",
+    "publicShowcase": "सार्वजनिक प्रदर्शन",
+    "switchRole": "डेमो भूमिका बदलें",
+    "logout": "लॉग आउट"
+  },
+  "roles": {
+    "super_admin": "सुपर एडमिन",
+    "institution_admin": "संस्थान प्रशासक",
+    "department_head": "विभागाध्यक्ष",
+    "faculty": "संकाय सदस्य",
+    "student": "छात्र अन्वेषक",
+    "reviewer": "सत्यापन अधिकारी"
+  },
+  "dashboard": {
+    "overallScore": "संस्थागत नवाचार स्कोर",
+    "scoreExplanation": "इस स्कोर की गणना कैसे की जाती है?",
+    "targetVsActual": "संकेतक लक्ष्य बनाम वास्तविक उपलब्धि",
+    "deptComparison": "विभागवार नवाचार प्रदर्शन",
+    "yearlyTrends": "वार्षिक वृद्धि और आउटपुट रुझान",
+    "recentActivity": "हाल के नवाचार रिकॉर्ड एवं सत्यापन",
+    "topContributors": "शीर्ष नवाचार चैंपियन",
+    "totalProjects": "ट्रैक की गई परियोजनाएं",
+    "totalPublications": "शोध पत्र",
+    "totalPatents": "दायर/स्वीकृत पेटेंट",
+    "totalGrants": "स्वीकृत अनुदान",
+    "totalStartups": "ऊष्मायित स्टार्टअप",
+    "totalEvents": "आयोजित कार्यक्रम"
+  },
+  "status": {
+    "draft": "प्रारूप",
+    "submitted": "प्रस्तुत",
+    "under_review": "समीक्षाधीन",
+    "approved": "स्वीकृत",
+    "rejected": "अस्वीकृत",
+    "correction_required": "संशोधन आवश्यक"
+  },
+  "actions": {
+    "addRecord": "नया रिकॉर्ड जोड़ें",
+    "export": "निर्यात करें",
+    "exportPdf": "पीडीएफ रिपोर्ट निर्यात",
+    "exportCsv": "सीएसवी निर्यात",
+    "verify": "सत्यापित करें",
+    "approve": "स्वीकृत करें",
+    "reject": "अस्वीकार करें",
+    "requestCorrection": "संशोधन का अनुरोध करें",
+    "viewDetails": "विवरण देखें",
+    "viewAudit": "ऑडिट इतिहास",
+    "search": "रिकॉर्ड, शोधकर्ता, पेटेंट खोजें...",
+    "filter": "फ़िल्टर",
+    "generateCertificate": "प्रमाणपत्र बनाएं",
+    "importSpreadsheet": "सीएसवी / एक्सेल आयात करें",
+    "connectExternal": "बाह्य प्रणाली एडेप्टर",
+    "save": "परिवर्तन सहेजें",
+    "cancel": "रद्द करें"
+  }
+}

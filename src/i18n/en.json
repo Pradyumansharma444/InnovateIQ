@@ -1,0 +1,78 @@
+{
+  "app": {
+    "title": "InnovateIQ",
+    "subtitle": "Ministry of AYUSH — Platform for Innovation Excellence Indicators",
+    "tagline": "Empowering AYUSH Educational Institutions to Measure, Track & Showcase Innovation Excellence"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "projects": "Innovation Projects",
+    "publications": "Publications",
+    "patents": "Patents & IPR",
+    "grants": "Research Grants",
+    "startups": "Startups & Incubation",
+    "competitions": "Competitions & Awards",
+    "events": "Innovation Events",
+    "indicators": "Indicator Engine",
+    "reviewQueue": "Review & Verify",
+    "recognition": "Hall of Fame",
+    "reports": "Reports",
+    "import": "Import Data",
+    "feedback": "Feedback",
+    "profile": "My Profile",
+    "settings": "Administration",
+    "publicShowcase": "Public Showcase",
+    "switchRole": "Switch Demo Role",
+    "logout": "Sign Out"
+  },
+  "roles": {
+    "super_admin": "Super Admin",
+    "institution_admin": "Institution Admin",
+    "department_head": "Department Head",
+    "faculty": "Faculty Member",
+    "student": "Student Innovator",
+    "reviewer": "Verification Officer"
+  },
+  "dashboard": {
+    "overallScore": "Institutional Innovation Score",
+    "scoreExplanation": "How is this score calculated?",
+    "targetVsActual": "Indicator Target vs Actual Achievement",
+    "deptComparison": "Department Innovation Performance",
+    "yearlyTrends": "Annual Growth & Output Trends",
+    "recentActivity": "Recent Innovation Records & Verifications",
+    "topContributors": "Top Innovation Champions",
+    "totalProjects": "Projects Tracked",
+    "totalPublications": "Research Papers",
+    "totalPatents": "Patents Filed/Granted",
+    "totalGrants": "Grants Sanctioned",
+    "totalStartups": "Startups Incubated",
+    "totalEvents": "Events Conducted"
+  },
+  "status": {
+    "draft": "Draft",
+    "submitted": "Submitted",
+    "under_review": "Under Review",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "correction_required": "Correction Required"
+  },
+  "actions": {
+    "addRecord": "Add New Record",
+    "export": "Export",
+    "exportPdf": "Export PDF Report",
+    "exportCsv": "Export CSV",
+    "verify": "Verify",
+    "approve": "Approve",
+    "reject": "Reject",
+    "requestCorrection": "Request Correction",
+    "viewDetails": "View Details",
+    "viewAudit": "Audit History",
+    "search": "Search records, researchers, patents...",
+    "filter": "Filter",
+    "generateCertificate": "Generate Certificate",
+    "importSpreadsheet": "Import CSV / Excel",
+    "connectExternal": "External System Adapter",
+    "save": "Save Changes",
+    "cancel": "Cancel"
+  }
+}

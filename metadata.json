@@ -1,0 +1,6 @@
+{
+  "name": "InnovateIQ — Innovation Excellence & Intelligence Platform",
+  "description": "InnovateIQ institutional platform for tracking, measuring, verifying, and showcasing innovation excellence indicators, institutional scoring, patents, research, and awards under Ministry of AYUSH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
